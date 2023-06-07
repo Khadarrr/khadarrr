@@ -1,4 +1,4 @@
-### Hi there 🫡👋 [Portfolio](https://portfolio-khadar.netlify.app/)
+### Hi there 🫡👋  - [Portfolio](https://portfolio-khadar.netlify.app/)
 
 <!--
 **Khadarrr/khadarrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
