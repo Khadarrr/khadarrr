@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🫡👋
 
 <!--
 **Khadarrr/khadarrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Welcome to my GitHub profile! I'm a student 🎓 with a love for coding and problem-solving. Here, I share my projects and experiments, exploring new things and finding creative solutions. 🚀 Let's collaborate and build something amazing together! Feel free to explore my work and reach out with any questions or ideas. 😊
